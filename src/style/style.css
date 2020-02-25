@@ -1,0 +1,10 @@
+html,
+body {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-family: "Press Start 2P", sans-serif;
+	background-image: url(../img/bg.gif);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
