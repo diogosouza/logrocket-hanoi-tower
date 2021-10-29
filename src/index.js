@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 import App from "./components/App";
 import "./style/style.css";
 
-import * as serviceWorker from './serviceWorker';
+import * as serviceWorker from "./serviceWorker";
 
 const mountNode = document.getElementById("root");
 
